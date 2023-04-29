@@ -1,2 +1,1 @@
-# balance_management_backend
-balance_management_backend
+# 収支管理アプリ（バックエンド）
