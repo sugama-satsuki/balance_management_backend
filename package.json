@@ -1,7 +1,7 @@
 {
   "name": "househohld-account-backend",
   "version": "1.0.0",
-  "description": "家計簿アプリのバックエンド処理アプリ",
+  "description": "収支管理アプリのバックエンド処理アプリ",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js"
