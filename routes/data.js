@@ -21,8 +21,7 @@ router.post('/register', async (req, res) => {
             isTypeIncome: req.body.isTypeIncome,
             memo: req.body.memo
         })
-
-        console.log(newData);
+        
         // 保存
         const data = await newData.save();
         console.log(data);
